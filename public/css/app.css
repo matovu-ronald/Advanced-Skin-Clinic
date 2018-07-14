@@ -1,0 +1,9 @@
+.logo img {
+  max-width: 250px;
+  max-height: 100px;
+}
+
+.inner-box .image img {
+  max-height: 400px;
+}
+
